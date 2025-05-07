@@ -1,72 +1,62 @@
-# Getting Started with Create React App
+# Bookworm - React Application
+Project Description
+Bookworm is a simple React app that lets users create and manage their personal book lists. It works without any external API—everything happens in the browser. The app has a clean design with Bootstrap and shows helpful notifications using React Toastify.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Key Features
+Add & Remove Books: Save and delete books from your list
 
-## Available Scripts
+Instant Notifications: See success/error messages with React Toastify
 
-In the project directory, you can run:
+Mobile-Friendly: Works well on all devices thanks to Bootstrap
 
-### `npm start`
+No API Needed: Runs completely in your browser
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+React: For building the app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Bootstrap 5: For styling and responsive layout
 
-### `npm test`
+React Toastify: For pop-up notifications
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React Icons: For icons (like delete/edit buttons)
 
-### `npm run build`
+LocalStorage: To save books even after closing the browser (optional)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How to Install
+bash
+# 1. Clone the project  
+git clone [repo-url]  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 2. Install dependencies  
+npm install  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 3. Start the app  
+npm start  
+How to Use
+Type a book name in the input field
 
-### `npm run eject`
+Click "Add"
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+A notification will confirm the book was added
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Your books will appear in the list below
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Preview
+![ReactAppvedier1sayfa-Kiisel2-MicrosoftEdge2025-05-0722-56-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/df4d7eb3-200b-4b0f-879c-128837bd5af5)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# License
+MIT License © [Enes Özkan]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

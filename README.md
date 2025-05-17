@@ -42,7 +42,8 @@ A notification will confirm the book was added
 Your books will appear in the list below
 
 # Preview
-![ReactAppvedier1sayfa-Kiisel2-MicrosoftEdge2025-05-0722-56-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/df4d7eb3-200b-4b0f-879c-128837bd5af5)
+![ReactAppvedier12sayfa-Kiisel2-MicrosoftEdge2025-05-1720-42-39-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/44756751-08a2-431e-8a67-f45e3aa7e6a2)
+
 
 
 # License
